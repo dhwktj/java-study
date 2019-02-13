@@ -8,6 +8,8 @@ public class StringType {
 		//문자+숫자=문자
 		//문자+문자=문자
 		//숫자+문자=문자
+		String str2 = new String("123");
+		System.out.println(str.equals(str2));
 		
 	}
 }
