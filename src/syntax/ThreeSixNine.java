@@ -15,5 +15,5 @@ public class ThreeSixNine {
 	}
 }
 
-
-//tip 10으로 나머지를 죠져버리기
+// 법칙을 찾는것이 중요해!
+//tip. 10으로 나머지를 죠져버리기
